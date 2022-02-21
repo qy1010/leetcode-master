@@ -10,6 +10,7 @@
 但是在解释的过程中有不恰当的地方，所以来专门写一篇文章来详细说一说这个问题。
 
 使用vector的代码如下：
+
 ```CPP
 // 版本一，使用vector（动态数组）
 class Solution {
@@ -28,14 +29,15 @@ public:
         return que;
     }
 };
-
 ```
+
 耗时如下：
 ![vectorinsert](https://img-blog.csdnimg.cn/20201218203611181.png)
 
 其直观上来看数组的insert操作是$O(n)$的，整体代码的时间复杂度是$O(n^2)$。
 
 这么一分析好像和版本二链表实现的时间复杂度是一样的啊，为什么提交之后效率会差距这么大呢？
+
 ```CPP
 // 版本二，使用list（链表）
 class Solution {
@@ -74,6 +76,7 @@ public:
 **首先vector的底层实现也是普通数组**。
 
 vector的大小有两个维度一个是size一个是capicity，size就是我们平时用来遍历vector时候用的，例如：
+
 ```
 for (int i = 0; i < vec.size(); i++) {
 
@@ -129,6 +132,7 @@ public:
     }
 };
 ```
+
 耗时如下：
 
 ![vector手动模拟insert](https://img-blog.csdnimg.cn/20201218200626718.png)
@@ -153,26 +157,16 @@ public:
 
 如果抛开语言谈算法，除非从来不用代码写算法纯分析，**否则的话，语言功底不到位$O(n)$的算法可以写出$O(n^2)$的性能**，哈哈。
 
-相信在这里学习算法的录友们，都是想在软件行业长远发展的，都是要从事编程的工作，那么一定要深耕好一门编程语言，这个非常重要！
-
-
-
-
-
+相信在这里学习算法的录友们，都是想在软件行业长远发展的，<mark>都是要从事编程的工作，那么一定要深耕好一门编程语言</mark>，这个非常重要！
 
 ## 其他语言版本
 
-
 Java：
-
 
 Python：
 
-
 Go：
 
-
-
-
 -----------------------
+
 <div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码一.jpg width=500> </img></div>
