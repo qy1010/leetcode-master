@@ -1,5 +1,3 @@
-
-
 👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
 👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
 
@@ -12,7 +10,7 @@
 
 <p align="center">
 <a href="programmercarl.com" target="_blank">
-	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211111115823.png" width="400"/>
+    <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211111115823.png" width="400"/>
 </a>
 
 <p align="center">
@@ -26,10 +24,9 @@
 
 <p align="center">
 <a href="https://union-click.jd.com/jdc?e=&p=JF8BAMQJK1olXg8EUVhVCkkWAV8IGV8WVAICU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUF1UDEsQHDZNRwYlX0B9A1cfakpyYBkSRj4QKFBUEEAfaEcbM244GFIXWQYAUV5VOHsXBF9edVsUXAcDVVtdDUgnAl8IHFkdXw8KUl5fDkgRM2gIEmtIFVpKAxVtOHsUM184G2sWbURsVApfAR8XA2sLSw8cWA8LUw1ZCElHAmhdTAxGW1YBUlxtCkoWB2Y4" target="_blank">
-	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211213180559.png" width="400"/>
+    <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211213180559.png" width="400"/>
 </a>
 </p>
-
 
 # LeetCode 刷题攻略
 
@@ -59,7 +56,7 @@
 
 <div align="center"><strong>最新文章会首发在公众号「代码随想录」，扫码看看吧，你会发现相见恨晚！</strong></img></div>
 
-<div align="center"><img src='./pics/公众号二维码.jpg' width=150 alt=''> </img></div> 
+<div align="center"><img src='./pics/公众号二维码.jpg' width=150 alt=''> </img></div>
 
 ## 如何使用该刷题攻略
 
@@ -72,7 +69,6 @@
 在刷题攻略中，每个专题开始都有理论基础篇，并不像是教科书般的理论介绍，而是从实战中归纳需要的基础知识。每个专题结束都有总结篇，最这个专题的归纳总结。
 
 如果你是算法老手，这篇攻略也是复习的最佳资料，如果把每个系列对应的总结篇，快速过一遍，整个算法知识体系以及各种解法就重现脑海了。
-
 
 目前「代码随想录」刷题攻略更新了：**200多篇文章，精讲了200道经典算法题目，共60w字的详细图解，部分难点题目还搭配了20分钟左右的视频讲解**。
 
@@ -91,44 +87,49 @@
 * [「代码随想录」后序安排](https://mp.weixin.qq.com/s/4eeGJREy6E-v6D7cR_5A4g)
 * [「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
 
-
 * 编程语言
-    * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
+  
+  * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
 
 * 项目
-    * [基于跳表的轻量级KV存储引擎](https://github.com/youngyangyang04/Skiplist-CPP)
-    * [Nosql数据库注入攻击系统](https://github.com/youngyangyang04/NoSQLAttack)
+  
+  * [基于跳表的轻量级KV存储引擎](https://github.com/youngyangyang04/Skiplist-CPP)
+  * [Nosql数据库注入攻击系统](https://github.com/youngyangyang04/NoSQLAttack)
 
 * 编程素养
-    * [看了这么多代码，谈一谈代码风格！](./problems/前序/代码风格.md)
-    * [力扣上的代码想在本地编译运行？](./problems/前序/力扣上的代码想在本地编译运行？.md)
-    * [什么是核心代码模式，什么又是ACM模式？](./problems/前序/什么是核心代码模式，什么又是ACM模式？.md)
-    * [ACM模式如何构造二叉树](./problems/前序/ACM模式如何构建二叉树.md)
-    * [解密互联网大厂研发流程](./problems/前序/互联网大厂研发流程.md)
+  
+  * [看了这么多代码，谈一谈代码风格！](./problems/前序/代码风格.md)
+  * [力扣上的代码想在本地编译运行？](./problems/前序/力扣上的代码想在本地编译运行？.md)
+  * [什么是核心代码模式，什么又是ACM模式？](./problems/前序/什么是核心代码模式，什么又是ACM模式？.md)
+  * [ACM模式如何构造二叉树](./problems/前序/ACM模式如何构建二叉树.md)
+  * [解密互联网大厂研发流程](./problems/前序/互联网大厂研发流程.md)
 
 * 工具 
-    * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
-    * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
-    * [程序员应该用什么用具来写文档？](./problems/前序/程序员写文档工具.md)
+  
+  * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
+  * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
+  * [程序员应该用什么用具来写文档？](./problems/前序/程序员写文档工具.md)
 
 * 求职 
-    * [程序员的简历应该这么写！！（附简历模板）](./problems/前序/程序员简历.md)
-    * [BAT级别技术面试流程和注意事项都在这里了](./problems/前序/BAT级别技术面试流程和注意事项都在这里了.md)
-    * [北京有这些互联网公司，你都知道么？](./problems/前序/北京互联网公司总结.md)
-    * [上海有这些互联网公司，你都知道么？](./problems/前序/上海互联网公司总结.md)
-    * [深圳有这些互联网公司，你都知道么？](./problems/前序/深圳互联网公司总结.md)
-    * [广州有这些互联网公司，你都知道么？](./problems/前序/广州互联网公司总结.md)
-    * [成都有这些互联网公司，你都知道么？](./problems/前序/成都互联网公司总结.md)
-    * [杭州有这些互联网公司，你都知道么？](./problems/前序/杭州互联网公司总结.md)
-    
+  
+  * [程序员的简历应该这么写！！（附简历模板）](./problems/前序/程序员简历.md)
+  * [BAT级别技术面试流程和注意事项都在这里了](./problems/前序/BAT级别技术面试流程和注意事项都在这里了.md)
+  * [北京有这些互联网公司，你都知道么？](./problems/前序/北京互联网公司总结.md)
+  * [上海有这些互联网公司，你都知道么？](./problems/前序/上海互联网公司总结.md)
+  * [深圳有这些互联网公司，你都知道么？](./problems/前序/深圳互联网公司总结.md)
+  * [广州有这些互联网公司，你都知道么？](./problems/前序/广州互联网公司总结.md)
+  * [成都有这些互联网公司，你都知道么？](./problems/前序/成都互联网公司总结.md)
+  * [杭州有这些互联网公司，你都知道么？](./problems/前序/杭州互联网公司总结.md)
+
 * 算法性能分析
-    * [关于时间复杂度，你不知道的都在这里！](./problems/前序/关于时间复杂度，你不知道的都在这里！.md)
-    * [$O(n)$的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
-    * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/通过一道面试题目，讲一讲递归算法的时间复杂度！.md)
-    * [本周小结！（算法性能分析系列一）](./problems/周总结/20201210复杂度分析周末总结.md)
-    * [关于空间复杂度，可能有几个疑问？](./problems/前序/关于空间复杂度，可能有几个疑问？.md)
-    * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
-    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
+  
+  * [关于时间复杂度，你不知道的都在这里！](./problems/前序/关于时间复杂度，你不知道的都在这里！.md)
+  * [$O(n)$的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
+  * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/通过一道面试题目，讲一讲递归算法的时间复杂度！.md)
+  * [本周小结！（算法性能分析系列一）](./problems/周总结/20201210复杂度分析周末总结.md)
+  * [关于空间复杂度，可能有几个疑问？](./problems/前序/关于空间复杂度，可能有几个疑问？.md)
+  * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
+  * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
 
 ## 知识星球精选
 
@@ -177,7 +178,7 @@
 * [大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
 * [一万录友在B站学算法！](https://mp.weixin.qq.com/s/Vzq4zkMZY7erKeu0fqGLgw)
 
-## 数组 
+## 数组
 
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
 2. [数组：每次遇到二分法，都是一看就会，一写就废](./problems/0704.二分查找.md)
@@ -213,7 +214,6 @@
 10. [双指针法：一样的道理，能解决四数之和](./problems/0018.四数之和.md)
 11. [哈希表：总结篇！（每逢总结必经典）](./problems/哈希表总结.md)
 
-
 ## 字符串
 
 1. [字符串：这道题目，使用库函数一行代码搞定](./problems/0344.反转字符串.md)
@@ -222,10 +222,10 @@
 4. [字符串：花式反转还不够！](./problems/0151.翻转字符串里的单词.md)
 5. [字符串：反转个字符串还有这个用处？](./problems/剑指Offer58-II.左旋转字符串.md)
 6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md)
-8. [字符串：KMP算法还能干这个！](./problems/0459.重复的子字符串.md)
-9. [字符串：总结篇！](./problems/字符串总结.md)
+7. [字符串：KMP算法还能干这个！](./problems/0459.重复的子字符串.md)
+8. [字符串：总结篇！](./problems/字符串总结.md)
 
-## 双指针法 
+## 双指针法
 
 双指针法基本都是应用在数组，字符串与链表的题目上
 
@@ -253,7 +253,7 @@
 8. [栈与队列：求前 K 个高频元素和队列有啥关系？](./problems/0347.前K个高频元素.md)
 9. [栈与队列：总结篇！](./problems/栈与队列总结.md)
 
-## 二叉树 
+## 二叉树
 
 题目分类大纲如下：           
 <img src='https://img-blog.csdnimg.cn/20210219190809451.png' width=600 alt='二叉树大纲'> </img></div>
@@ -293,8 +293,8 @@
 33. [二叉树：构造一棵搜索树](./problems/0108.将有序数组转换为二叉搜索树.md)
 34. [二叉树：搜索树转成累加树](./problems/0538.把二叉搜索树转换为累加树.md)
 35. [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](./problems/二叉树总结篇.md)
- 
-## 回溯算法 
+
+## 回溯算法
 
 题目分类大纲如下：             
 
@@ -323,10 +323,9 @@
 21. [回溯算法：解数独](./problems/0037.解数独.md)
 22. [一篇总结带你彻底搞透回溯算法！](./problems/回溯总结.md)
 
-## 贪心算法 
+## 贪心算法
 
 题目分类大纲如下：             
-
 
 <img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
 
@@ -361,6 +360,7 @@
 动态规划专题已经开始啦，来不及解释了，小伙伴们上车别掉队！
 
 <img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-总结大纲1.jpg' width=500> </img></div>
+
 1. [关于动态规划，你该了解这些！](./problems/动态规划理论基础.md)
 2. [动态规划：斐波那契数](./problems/0509.斐波那契数.md)
 3. [动态规划：爬楼梯](./problems/0070.爬楼梯.md)
@@ -375,7 +375,6 @@
 背包问题系列：
 
 <img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-背包问题总结.png' width=500 alt='背包问题大纲'> </img></div>
-
 
 11. [动态规划：关于01背包问题，你该了解这些！](./problems/背包理论基础01背包-1.md)
 12. [动态规划：关于01背包问题，你该了解这些！（滚动数组）](./problems/背包理论基础01背包-2.md)
@@ -406,7 +405,6 @@
 
 <img src='https://code-thinking.cdn.bcebos.com/pics/股票问题总结.jpg' width=500 alt='股票问题总结'> </img></div>
 
-
 32. [动态规划：买卖股票的最佳时机](./problems/0121.买卖股票的最佳时机.md)
 33. [动态规划：本周我们都讲了这些（系列六）](./problems/周总结/20210225动规周末总结.md)
 34. [动态规划：买卖股票的最佳时机II](./problems/0122.买卖股票的最佳时机II（动态规划）.md)
@@ -420,7 +418,6 @@
 子序列系列： 
 
 <img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-子序列问题总结.jpg' width=500 alt=''> </img></div>
-
 
 41. [动态规划：最长递增子序列](./problems/0300.最长上升子序列.md)
 42. [动态规划：最长连续递增序列](./problems/0674.最长连续递增序列.md)
@@ -437,8 +434,7 @@
 53. [动态规划：最长回文子序列](./problems/0516.最长回文子序列.md)
 54. [动态规划总结篇](./problems/动态规划总结篇.md)
 
-
-## 单调栈 
+## 单调栈
 
 1. [单调栈：每日温度](./problems/0739.每日温度.md)
 2. [单调栈：下一个更大元素I](./problems/0496.下一个更大元素I.md)
@@ -448,13 +444,13 @@
 
 （持续更新中....）
 
-## 图论 
+## 图论
 
 ## 十大排序
 
-## 数论 
+## 数论
 
-## 高级数据结构经典题目 
+## 高级数据结构经典题目
 
 * 并查集 
 * 最小生成树 
@@ -469,7 +465,6 @@
 以上题目是重中之重，大家至少要刷两遍以上才能彻底理解，如果熟练以上题目之后还在找其他题目练手，可以再刷以下题目：
 
 这些题目很不错，但有的题目是和刷题攻略类似的，有的题解后面还会适当补充，所以我还没有将其纳入到刷题攻略。一些题解等日后我完善一下，再纳入到刷题攻略。
-
 
 ## 数组
 
@@ -492,56 +487,61 @@
 * [160.相交链表](./problems/面试题02.07.链表相交.md)
 
 ## 哈希表
+
 * [205.同构字符串](./problems/0205.同构字符串.md):【哈希表的应用】
 
 ## 字符串
+
 * [925.长按键入](./problems/0925.长按键入.md) 模拟匹配
 * [0844.比较含退格的字符串](./problems/0844.比较含退格的字符串.md)【栈模拟】【空间更优的双指针】
 
 ## 二叉树
+
 * [129.求根到叶子节点数字之和](./problems/0129.求根到叶子节点数字之和.md)
 * [1382.将二叉搜索树变平衡](./problems/1382.将二叉搜索树变平衡.md) 构造平衡二叉搜索树
 * [100.相同的树](./problems/0100.相同的树.md) 同101.对称二叉树 一个思路
 * [116.填充每个节点的下一个右侧节点指针](./problems/0116.填充每个节点的下一个右侧节点指针.md)
 
-## 回溯算法 
+## 回溯算法
 
 * [52.N皇后II](./problems/0052.N皇后II.md)
-  
 
 ## 贪心
+
 * [649.Dota2参议院](./problems/0649.Dota2参议院.md) 有难度
 * [1221.分割平衡字符](./problems/1221.分割平衡字符串.md) 简单贪心
 
-## 动态规划 
+## 动态规划
+
 * [5.最长回文子串](./problems/0005.最长回文子串.md) 和[647.回文子串](https://mp.weixin.qq.com/s/2WetyP6IYQ6VotegepVpEw) 差不多是一样的
 * [132.分割回文串II](./problems/0132.分割回文串II.md) 与647.回文子串和 5.最长回文子串 很像
 * [673.最长递增子序列的个数](./problems/0673.最长递增子序列的个数.md) 
 
 ## 图论
+
 * [463.岛屿的周长](./problems/0463.岛屿的周长.md) （模拟）
 * [841.钥匙和房间](./problems/0841.钥匙和房间.md) 【有向图】dfs，bfs都可以
 * [127.单词接龙](./problems/0127.单词接龙.md) 广搜
 
-## 并查集 
+## 并查集
+
 * [684.冗余连接](./problems/0684.冗余连接.md) 【并查集基础题目】
 * [685.冗余连接II](./problems/0685.冗余连接II.md)【并查集的应用】
 
 ## 模拟
+
 * [657.机器人能否返回原点](./problems/0657.机器人能否返回原点.md) 
 * [31.下一个排列](./problems/0031.下一个排列.md) 
 
 ## 位运算
+
 * [1356.根据数字二进制下1的数目排序](./problems/1356.根据数字二进制下1的数目排序.md) 
 
-
-# 算法模板 
+# 算法模板
 
 [各类基础算法模板](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
 
-
-
-# B站算法视频讲解 
+# B站算法视频讲解
 
 以下为[B站「代码随想录」](https://space.bilibili.com/525438321)算法讲解视频：
 
@@ -558,7 +558,7 @@
 
 （持续更新中....）
 
-# 贡献者 
+# 贡献者
 
 [点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者收益于此项目。
 
@@ -571,8 +571,8 @@
 也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
 
 <a name="微信"></a>
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/WechatIMG82.jpeg" data-img="1" width="200" height="200"></img></div>
 
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/WechatIMG82.jpeg" data-img="1" width="200" height="200"></img></div>
 
 # 公众号
 
@@ -583,12 +583,13 @@
 **来看看就知道了，你会发现相见恨晚！**
 
 <a name="公众号"></a>
+
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
 
-# 服务器 
+# 服务器
 
 <p align="center"><strong>阿里云服务器，双11特价活动🔥🔥🔥🔥</p>
 <p align="center">
 <a href="https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1959&recordId=962642&userCode=roof0wob" target="_blank">
-	<img src="./pics/阿里云.png" width="1000"/>
+    <img src="./pics/阿里云.png" width="1000"/>
 </a>
